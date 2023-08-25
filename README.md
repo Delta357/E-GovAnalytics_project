@@ -5,5 +5,3 @@ Esse projeto E-Gov Analytics na prática da formação cientista de dados da @Da
 
 ## Citação
 @Data Science Academy.
-
-## Referencia do projeto
