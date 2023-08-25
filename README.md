@@ -164,7 +164,7 @@ Agora que temos nosso ambiente Python todo configurado, podemos começar a traba
 jupyter notebook
 ```
 
-## Demo Modelo PLN  
+## Demo Modelo regressão linear simples - CatBoost Regressor 
 
 ```
 import numpy as np
